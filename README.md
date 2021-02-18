@@ -1,6 +1,6 @@
-<h1><img src="https://steamcdn-a.akamaihd.net/steam/apps/1122050/extras/suica_chara.gif?t=1598950928" width="45"/> Welcome to my mind</h1>
+<h1><img src="https://previews.123rf.com/images/muslumstock/muslumstock1808/muslumstock180806596/107876744-keyboard-vector-icon-isolated-on-transparent-background-keyboard-logo-concept.jpg" width="45"/> Welcome to my mind</h1>
 
-<p>I'm Alvaro, a <b>software engineering</b> from <b>Galicia, Spain.</b> Creating software and apps for humans. 
+<p>I'm Alvaro, a <b>software engineering</b> from <b>Galicia, Spain.</b>
 <h3>Things I code with</h3>
 <p>
 <img
@@ -13,7 +13,7 @@
 />
 <img
   alt="Kubernates"
-  src="https://img.shields.io/badge/-Kubernates-326CE5?style=flat-square&logo=kubernates&logoColor=white"
+  src="https://img.shields.io/badge/-Kubernates-326CE5?style=flat-square&logo=kubernetes&logoColor=white"
 />
 <img
   alt="html5"
