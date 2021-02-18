@@ -1,4 +1,4 @@
-<h1><img src="https://img.icons8.com/ios/452/keyboard.png" width="45"/> Welcome to my mind</h1>
+<h1><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/274/exploding-head_1f92f.png" width="45"/> Welcome to my mind</h1>
 
 <p>I'm Alvaro, a <b>software engineering</b> from <b>Galicia, Spain.</b>
 <h3>Things I code with</h3>
@@ -13,7 +13,7 @@
 />
 <img
   alt="Kubernates"
-  src="https://img.shields.io/badge/-Kubernates-326CE5?style=flat-square&logo=kubernetes&logoColor=white"
+  src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"
 />
 <img
   alt="html5"
