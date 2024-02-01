@@ -1,4 +1,4 @@
-<h1><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/274/exploding-head_1f92f.png" width="45"/> Welcome to my mind.</h1>
+<h1><img src="https://emojiisland.com/cdn/shop/products/7_large.png?v=1571606116" width="45"/> Welcome to my mind.</h1>
 
 <p>I'm Alvaro, a <b>software engineer</b> from <b>Galicia, Spain. </b>
 <h3>Things I code with:</h3>
